@@ -1,4 +1,4 @@
-#CS540 HW9 Spring 2023
+# CS540 HW9 Spring 2023
 This project outlines an AI player of the game [Teeko](https://en.wikipedia.org/wiki/Teeko). I will include the rules of the game as described in the assignment document here:
 > It is a game between two players on a 5x5 board. Each player has four markers of
 either red or black. Beginning with black, they take turns placing markers (the "drop
